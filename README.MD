@@ -60,9 +60,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Joel Carneiro** - *Initial work* - [Optimizer](http://git.optimizer.lan/orajca)
+* **Joel Carneiro** - *Initial work* - [GitHub](https://github.com/jolasman)
 
-See also the list of [contributors](http://git.optimizer.lan/oracledevcenter/artificial_intelligence/graphs/dev) who participated in this project.
+See also the list of [contributors](https://github.com/jolasman/keras-text-classification/graphs/contributors) who participated in this project.
 
 <!-- ## License
 
